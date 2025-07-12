@@ -1,6 +1,7 @@
-<img width="2557" height="1387" alt="image" src="https://github.com/user-attachments/assets/38316b16-c10f-4a96-9270-b1c409cf7d73" /># 🛒 Shopping UI - Simple Responsive Product Filter
+# 🛒 Shopping UI - Simple Responsive Product Filter
 
-A clean and responsive product showcase layout with simple category filtering. This front-end project is built using **HTML5**, **CSS3**, **Bootstrap 5**, and **jQuery**, with dynamic filtering powered by **Isotope.js**. It serves as a basic e-commerce UI mockup, ideal for practicing layout, responsiveness, and DOM interaction.
+A clean and responsive product showcase layout with simple category filtering. This front-end project is built using **HTML5**, **CSS3**, **Bootstrap 5**, and **jQuery**, with dynamic filtering powered by **Isotope.js**.  
+It serves as a basic e-commerce UI mockup — ideal for practicing layout, responsiveness, and DOM interaction.
 
 ---
 
@@ -10,26 +11,26 @@ A clean and responsive product showcase layout with simple category filtering. T
 
 ---
 
-## 👀 Project Preview For Deskitop
+## 👀 Project Preview – Desktop
 
-<img width="2557" height="1387" alt="image" src="https://github.com/user-attachments/assets/92fb4b37-e16c-41c6-8a43-9ed9c46a672d" />
+<img width="100%" alt="Desktop Preview" src="https://github.com/user-attachments/assets/92fb4b37-e16c-41c6-8a43-9ed9c46a672d" />
 
 ---
 
-## 👀 Project Preview For Mobile
+## 📱 Project Preview – Mobile
 
-<img width="679" height="1219" alt="image" src="https://github.com/user-attachments/assets/8f4e1f40-6866-49ac-8fdd-2e77eb938053" />
+<img width="300" alt="Mobile Preview" src="https://github.com/user-attachments/assets/8f4e1f40-6866-49ac-8fdd-2e77eb938053" />
 
 ---
 
 ## ✨ Features
 
-- ✅ **Responsive Layout**: Adapts to different screen sizes using Bootstrap 5.
-- 🛍️ **Simple Product Cards**: Basic item layout with hover effects.
-- 🧭 **Category Filter**: Client-side filtering using Isotope.js.
-- 🎨 **Icon Integration**: Clean icons using Remix Icon library.
-- 🔄 **Smooth Transitions**: Filter animations for better user experience.
-- 🧩 **Lightweight & Simple**: Straightforward HTML/CSS/JS structure.
+- ✅ **Responsive Layout**: Adapts to all screen sizes using Bootstrap 5.
+- 🛍️ **Simple Product Cards**: Grid-based display with hover effects.
+- 🧭 **Category Filtering**: Instant filter using Isotope.js.
+- 🎨 **Modern Icons**: Integrated with Remix Icon for clean visuals.
+- 🔄 **Smooth Transitions**: Filtering animation enhances user experience.
+- ⚙️ **Clean Structure**: Simple and modular HTML, CSS, and JS files.
 
 ---
 
@@ -38,13 +39,14 @@ A clean and responsive product showcase layout with simple category filtering. T
 | Technology        | Description                                                      |
 |-------------------|------------------------------------------------------------------|
 | `HTML5`           | Markup structure                                                 |
-| `CSS3`            | Custom styles and layout                                         |
-| `Bootstrap 5`     | Grid system and responsive components                            |
-| `jQuery`          | DOM manipulation for filtering                                   |
-| `Isotope.js`      | Filtering and animated layout transitions                        |
-| `Remix Icon`      | Modern vector icons for UI elements                              |
+| `CSS3`            | Styling and layout                                               |
+| `Bootstrap 5`     | Responsive grid and UI components                                |
+| `jQuery`          | DOM manipulation and filtering logic                             |
+| `Isotope.js`      | Filtering and animation engine                                   |
+| `Remix Icon`      | Icon library for UI elements                                     |
 
 ---
+
 
 ## 📁 Project Structure
 
